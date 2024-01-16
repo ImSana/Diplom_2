@@ -1,0 +1,1 @@
+{"uuid": "4f31d649-3482-4ef1-95b4-5ea64fb642ba", "children": ["f2488dfa-876a-416f-8560-d657737025c8"], "befores": [{"name": "create_user_for_del", "status": "passed", "start": 1704576543786, "stop": 1704576544550}], "afters": [{"name": "create_user_for_del::0", "status": "passed", "start": 1704576545335, "stop": 1704576546131}], "start": 1704576543786, "stop": 1704576546131}
